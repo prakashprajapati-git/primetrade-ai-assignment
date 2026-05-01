@@ -1,0 +1,7 @@
+metric,value
+total_trades,79225.0
+unique_accounts,32.0
+total_closed_pnl,5678965.032523001
+avg_closed_pnl_per_trade,71.68147721707795
+median_closed_pnl_per_trade,0.0
+win_rate,0.4223666771852319
