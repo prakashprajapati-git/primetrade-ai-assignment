@@ -11,6 +11,11 @@ This project explores the relationship between trader performance and Bitcoin ma
 
 The goal is to identify whether market sentiment influences trader profitability, win rate, and trading behavior.
 
+## Note
+
+Datasets are not included in this repository due to size constraints.  
+Please place the raw datasets inside `data/raw/` before running the scripts.
+
 ## Datasets Used
 
 ### 1. Historical Trader Data
